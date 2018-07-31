@@ -23,7 +23,7 @@ This repository contains the following projects:
 
 2. Titanic.ipynb:
    Use Titanic dataset from Kaggle for predicting survival/not survival of a passenger.
-   Use Logistic Regression and DNN for solving the classification problem.
+   Use Logistic Regression, DNN and SVC solving the classification problem and compared the results.
    More descriptions is in the top cell of the Jupyter Notebook.
 
 3. bank_note.ipynb:
